@@ -1,0 +1,14 @@
+{
+  "name": "bikeshed-to-json-webgpu",
+  "version": "1.0.0",
+  "description": "convert bikeshed to json with extra code for webgpu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bikeshed-to-json": "github:EmilSV/bikeshed-to-json"
+  }
+}
